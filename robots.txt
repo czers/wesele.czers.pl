@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://czers.github.io/sitemap.xml 
