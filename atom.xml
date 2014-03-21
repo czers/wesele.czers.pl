@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Ślub Kasi i Michała]]></title>
   <link href="http://czers.github.io/atom.xml" rel="self"/>
   <link href="http://czers.github.io/"/>
-  <updated>2014-03-21T13:21:59+01:00</updated>
+  <updated>2014-03-21T14:39:15+01:00</updated>
   <id>http://czers.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Katarzyna i Michał Czerscy]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
