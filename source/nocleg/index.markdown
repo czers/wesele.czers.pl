@@ -7,3 +7,20 @@ sharing: false
 footer: false
 ---
 
+Dla większości gości pochodzących spoza Trójmiasta mamy przygotowane noclegi
+w tym samym ośrodku, w którym odbywa się [wesele](/wesele "Więcej o weselu").
+
+#### Zameldowanie i wymeldowanie z ośrodka
+W ośrodku będzie się można meldować od godz. XX.xx w sobotę. Osoby nocujące
+w ośrodku tylko w noc weselną muszą wymeldować się do godz. YY.yy w
+niedzielę.
+
+#### Śniadanie
+Następnego dnia po weselu dla gości nocujących w ośrodku przygotowane
+zostanie śniadanie. Będzie ono trwać między godz. XX.xx a YY.yy.
+
+#### Dłuższy pobyt
+Przyjezdni mający ochotę spędzić więcej czasu w Trójmieście mogą rozszerzyć
+swój pobyt w ośrodku o dodatkowe dni. W tym celu należy kontaktować się
+bezpośrednio z [recepcją ośrodka](http://csr.pg.gda.pl/ "Strona ośrodka")
+wspominając o tym, że jest się gościem weselnym.
