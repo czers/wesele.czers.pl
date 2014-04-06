@@ -8,7 +8,8 @@ footer: false
 ---
 
 Dla większości gości pochodzących spoza Trójmiasta mamy przygotowane noclegi
-w tym samym ośrodku, w którym odbywa się [wesele](/wesele "Więcej o weselu").
+w tym samym ośrodku, w którym odbywa się [wesele]({{ root_url }}/wesele/
+"Więcej o weselu").
 
 #### Zameldowanie i wymeldowanie z ośrodka
 W ośrodku będzie się można meldować od godz. XX.xx w sobotę. Osoby nocujące
