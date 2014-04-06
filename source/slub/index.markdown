@@ -7,13 +7,14 @@ sharing: false
 footer: false
 ---
 
-Ślub odbędzie się 20 września 2014 r. o godz XX.xx w Kościole Najświętszego
+Ślub odbędzie się 20 września 2014 r. o godz. XX.xx w Kościole Najświętszego
 Serca Pana Jezusa w Sopocie.
 
 #### Adres
 _Parafia rzymskokatolicka pw. Najświętszego Serca Pana Jezusa_  
 _ul. Jacka Malczewskiego 18_  
-_81-817 Sopot_
+_81-817 Sopot_  
+[Strona parafii](http://www.nspj-sopot.pl/ "Strona parafii")
 
 #### Parking
 Przy kościele znajduje się parking, na którym powinny zmieścić się wszystkie
