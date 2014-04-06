@@ -7,7 +7,7 @@ sharing: false
 footer: false
 ---
 
-Ślub odbędzie się 20 września 2014 r. o godz. XX.xx w Kościele Najświętszego
+Ślub odbędzie się 20 września 2014 r. o godz. 16.00 w Kościele Najświętszego
 Serca Pana Jezusa w Sopocie.
 
 #### Adres
