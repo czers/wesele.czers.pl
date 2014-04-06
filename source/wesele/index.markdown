@@ -19,7 +19,8 @@ _81-777 Sopot_
 
 #### Parking
 Na terenie Centrum znajduje się parking, na którym zmieści się część aut
-gości. Parkować można także wzdłuż pobliskich ulic (w weekendy bezpłatnie).
+gości. Parkować można także wzdłuż pobliskich ulic (w soboty parking jest
+płatny do godz. 20, w niedziele i święta bezpłatny).
 
 #### Mapa
 <iframe src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=pl&amp;geocode=&amp;q=Zatoka,+Emilii+Plater,+Sopot,+Polska&amp;aq=0&amp;oq=zatoka+sopot+emilii+plater&amp;sll=54.437504,18.579168&amp;sspn=0.038587,0.111151&amp;ie=UTF8&amp;hq=Zatoka,&amp;hnear=Emilii+Plater,+Sopot,+Pomorskie,+Polska&amp;ll=54.436932,18.579262&amp;spn=0.006295,0.006295&amp;t=m&amp;output=embed" frameborder="0" style="border:0" height="375" width="500"></iframe>
