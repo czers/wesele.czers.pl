@@ -7,7 +7,7 @@ sharing: false
 footer: false
 ---
 
-Wesele odbędzie się 20 września 2014 r. o godz. XX.xx w Centrum
+Wesele odbędzie się 20 września 2014 r. o godz. 17.30 w Centrum
 Szkoleniowo-Rehabilitacyjnym "Eureka" w Sopocie (dawniej znane jako
 Zatoka Sopot).
 
