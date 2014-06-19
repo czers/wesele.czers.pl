@@ -1,16 +1,16 @@
 ---
 layout: page
-title: "Strona z informacjami o ślubie Kasi i Michała"
+title: "Ślub Kasi i Michała"
 date: 2014-03-21 13:57
 comments: false
 sharing: false
 footer: false
 ---
 
-_WORK IN PROGRESS_
-
-Na tej stronie postaraliśmy umieścić się przydatne informacje związane z
+Na tej stronie umieściliśmy  przydatne informacje związane z
 organizacją naszego wesela.
+
+W razie pytań prosimy o kontaktowanie się na numery telefoniczne, które umieszczone zostały na zaproszeniach.
 
 * [Trochę o nas]({{ root_url }}/o-nas/ "O nowożeńcach")
 * [Informacje o ślubie]({{ root_url }}/slub/ "Więcej o ślubie")
