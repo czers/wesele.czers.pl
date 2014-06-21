@@ -13,12 +13,12 @@ w tym samym ośrodku, w którym odbywa się [wesele]({{ root_url }}/wesele/
 
 #### Zameldowanie i wymeldowanie z ośrodka
 W ośrodku będzie się można meldować od godz. 14:00 w sobotę. Osoby nocujące
-w ośrodku tylko w noc weselną muszą wymeldować się do godz. 13:00 w
+w ośrodku tylko w noc weselną muszą wymeldować się do godz. 12:00 w
 niedzielę.
 
 #### Śniadanie
 Następnego dnia po weselu dla gości nocujących w ośrodku przygotowane
-zostanie śniadanie. Będzie ono trwać między godz. 10:30 a 12:30.
+zostanie śniadanie. Będzie ono trwać między godz. 10:30 a 12:00.
 
 #### Dłuższy pobyt
 Przyjezdni mający ochotę spędzić więcej czasu w Trójmieście mogą rozszerzyć
